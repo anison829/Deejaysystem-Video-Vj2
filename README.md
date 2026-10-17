@@ -210,4 +210,4 @@ Deejaysystem Video VJ2 is offered as a complete free version with all features a
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-17 09:08:47 UTC
+**Last updated:** 2026-10-17 13:34:43 UTC
